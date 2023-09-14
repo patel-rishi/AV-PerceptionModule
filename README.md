@@ -7,7 +7,6 @@ The **Robust Modelling of Deep Learning-Based Perception** project focuses on en
 - [Problem Statement](#problem-statement)
 - [Implemented Algorithms](#implemented-algorithms)
 - [Project Achievements](#project-achievements)
-- [Contributors](#contributors)
 
 ## Project Overview
 
@@ -40,11 +39,6 @@ Through the implementation of these algorithms and related components, the proje
 - **Data Analysis with PowerBI**: PowerBI was employed for in-depth data analysis, generating actionable insights. These insights were instrumental in addressing failure modes and enhancing overall system performance.
 
 - **CI/CD Pipeline**: A CI/CD (Continuous Integration/Continuous Deployment) pipeline was established using Jenkins. This pipeline significantly improved efficiency and automation in coursework grading, resulting in a 50% reduction in the course evaluation process.
-
-
-## Contributors
-
-- Rishi Patel (insert your contact information)
 
 Feel free to reach out if you have any questions or would like to contribute to this project.
 
